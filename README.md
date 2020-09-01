@@ -16,7 +16,9 @@ Important factors identified are:
   6. Genre
   7. IMDb Scores
   
-  
+
+----------------------------------------------------------------------------------------------------------------------------------
+
 The interactive versions of the visualizations are available on my TABLEAU PUBLIC profile :
 
 https://public.tableau.com/profile/prajwal.khairnar#!/vizhome/IMDBMoviesData_15988104160740/Story1
